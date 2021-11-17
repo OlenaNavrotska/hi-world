@@ -1,1 +1,1 @@
-# hi-world
+puts ' hi,world'
